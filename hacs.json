@@ -1,7 +1,5 @@
 {
   "name": "Places",
   "homeassistant": "2026.3.0b0",
-  "zip_release": true,
-  "filename": "places.zip",
   "persistent_directory": "json_sensors"
 }
